@@ -2,7 +2,7 @@
 //  IGListKitTestTests.m
 //  IGListKitTestTests
 //
-//  Created by PaulLi on 2021/3/25.
+//  Created by liupengkun on 2021/3/25.
 //
 
 #import <XCTest/XCTest.h>
